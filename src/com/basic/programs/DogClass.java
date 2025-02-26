@@ -36,10 +36,6 @@ public class DogClass {
         DogClass captainObj=new DogClass();
         captainObj.age=21;
         captainObj.name="hulk";
-        System.out.println("Dog name :"+ captainObj.name);
-        System.out.println("Dog breed :"+ captainObj.breed);
-        System.out.println("Dog colour :"+ captainObj.colour);
-        System.out.println("Dog age :"+ captainObj.age);
         thorobj.play();
 
 
